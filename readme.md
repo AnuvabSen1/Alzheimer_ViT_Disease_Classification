@@ -4,15 +4,10 @@ Welcome to the Biomedical Imaging VIT Model repository. This state-of-the-art Vi
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Model Architecture](#model-architecture)
-5. [Data Preprocessing](#data-preprocessing)
-6. [Training](#training)
-7. [Inference](#inference)
-8. [Performance Evaluation](#performance-evaluation)
-9. [Advanced Configuration](#advanced-configuration)
+1. [Introduction](#introduction)    4. [Model Architecture](#model-architecture)    7. [Inference](#inference)
+2. [Installation](#installation)    5. [Data Preprocessing](#data-preprocessing)    8. [Performance Evaluation](#performance-evaluation)
+3. [Usage](#usage)                  6. [Training](#training)                        9. [Advanced Configuration](#advanced-configuration)
+
 
 ## Introduction
 
